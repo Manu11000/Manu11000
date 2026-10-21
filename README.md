@@ -9,7 +9,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:09060F,45:210C38,100:6C35A3&text=Manoela%20Oliveira&fontColor=F4ECFF&fontSize=43&fontAlignY=43&desc=technology%20%2F%20data%20%2F%20automation&descSize=14&descAlignY=65&animation=fadeIn"
     width="100%"
-    alt="Manoela Oliveira — Technology, Data and Automation"
+    alt="Manoela Oliveira — CYBERSECURITY, IoT and DATA ANALYTICS"
   />
 
   <br/>
@@ -103,8 +103,6 @@ Meu contato com essas tecnologias varia entre experiência prática, conheciment
 
 Projeto desenvolvido para um desafio acadêmico que conecta exploração espacial, tecnologia e desafios ambientais e climáticos.
 
-Minha contribuição envolveu a estruturação do projeto, criação de telas e realização de ajustes na solução.
-
 **Foco:** tecnologia espacial, monitoramento ambiental e desenvolvimento de aplicações.
 
 <br/>
@@ -128,7 +126,7 @@ A proposta utiliza recursos de localização, rotas e informações sobre estabe
 
 <br/>
 
-<a href="https://github.com/Manu11000?tab=repositories">
+<a href="https://github.com/paulacarregal/aeon-flutter/tree/main">
   <img src="https://img.shields.io/badge/Ver%20repositórios-20132D?style=flat-square&logo=github&logoColor=C9A7FF" alt="Ver repositórios"/>
 </a>
 
@@ -155,10 +153,6 @@ Pesquisa e desenvolvimento de soluções para monitoramento e automação de equ
 </table>
 
 </div>
-
-<sub>
-Os links direcionam aos repositórios disponíveis ou ao perfil público. Os projetos AEON e IoT não possuem links individuais nesta seção porque seus endereços específicos não foram informados.
-</sub>
 
 ---
 
