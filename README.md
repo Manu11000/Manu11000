@@ -6,11 +6,11 @@
 <div align="center">
 
   <!-- BANNER -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:09060F,45:210C38,100:6C35A3&text=Manoela%20Oliveira&fontColor=F4ECFF&fontSize=43&fontAlignY=43&desc=technology%20%2F%20data%20%2F%20automation&descSize=14&descAlignY=65&animation=fadeIn"
-    width="100%"
-    alt="Manoela Oliveira — CYBERSECURITY, IoT and DATA ANALYTICS"
-  />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:09060F,45:210C38,100:6C35A3&text=Manoela%20Oliveira&font=Sacramento&fontColor=F4ECFF&fontSize=48&fontAlignY=43&desc=CYBERSECURITY%20%2F%20IoT%20%2F%20DATA%20ANALYTICS&descSize=13&descAlignY=72&animation=fadeIn"
+  width="100%"
+  alt="Manoela Oliveira — Cybersecurity, IoT and Data Analytics"
+/>
 
   <br/>
 
@@ -208,8 +208,6 @@ Atuação na definição de um produto de auditoria de configurações de firewa
 **Projeto Teluric · Space Connect**
 
 Primeiro lugar conquistado em equipe no desafio acadêmico da FIAP, voltado à economia espacial e aos desafios ambientais e climáticos.
-
-Minha contribuição envolveu a estruturação do projeto, criação de telas e ajustes na solução.
 
 <br/>
 
